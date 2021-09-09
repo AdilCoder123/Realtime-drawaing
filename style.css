@@ -1,0 +1,28 @@
+.hh33
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 4px 4px 8px lightcoral;
+}
+.note
+{
+    font-size:15px;
+    width:100%;
+
+}
+.copy-right-footer
+{
+    position:fixed;
+    color: white;
+    bottom:0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px lightcoral;
+}
